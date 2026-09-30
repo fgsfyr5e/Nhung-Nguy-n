@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Liên Môn – Sử • Địa • Văn",
+  "description": "Đấu trường quiz realtime kết hợp Lịch sử (Thời gian) – Địa lý (Không gian) – Văn học (Con người & Tác phẩm) với trải nghiệm thi đấu trực tuyến đỉnh cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
